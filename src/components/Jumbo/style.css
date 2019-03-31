@@ -1,0 +1,13 @@
+.jumbo {
+  width: 100%;
+  text-align: center;
+  font-size: 2rem;
+  /* background: rgb(238, 6, 172);
+
+  color: rgb(61, 21, 204); */
+  color: rgb(238, 6, 172);
+
+  background: rgb(61, 21, 204);
+  border: 2px dotted white;
+ 
+}

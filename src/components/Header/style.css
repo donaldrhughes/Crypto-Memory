@@ -1,0 +1,18 @@
+.header {
+  width: 100%;
+  text-align: center;
+  font-size: 3rem;
+  
+  color: rgb(238, 6, 172);
+  margin-bottom: 5px;
+}
+
+.message{
+  font-size:2rem;
+  color: rgb(243, 188, 7);
+}
+
+.score{
+  font-size:2rem;
+  color: rgb(7, 243, 7);
+}
