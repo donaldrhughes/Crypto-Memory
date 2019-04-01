@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/donaldrhughes/Crypto-Memory/precache-manifest.5cec3579116f27af480b5f6373931183.js"
+  "/Crypto-Memory/precache-manifest.9a1731dd19012d9a0ca007ac950257d8.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/donaldrhughes/Crypto-Memory/index.html", {
+workbox.routing.registerNavigationRoute("/Crypto-Memory/index.html", {
   
   blacklist: [/^\/_/,/\/[^\/]+\.[^\/]+$/],
 });
